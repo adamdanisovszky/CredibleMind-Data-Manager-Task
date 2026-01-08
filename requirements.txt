@@ -1,0 +1,16 @@
+# CDC BRFSS to BigQuery Pipeline Requirements
+
+# BigQuery client library
+google-cloud-bigquery==3.14.1
+
+# Data manipulation
+pandas==2.1.4
+
+# HTTP requests
+requests==2.31.0
+
+# Authentication (included with google-cloud-bigquery)
+google-auth==2.25.2
+
+# Additional useful packages
+pyarrow==14.0.1  # For faster BigQuery operations

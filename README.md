@@ -6,7 +6,7 @@ Repository for the Data Manager Take-Home Assessment with CredibleMind
 ○ This was my first time setting up a repo from scratch. 
 
 # 2) Python Ingestion Script
-○ See "ingest.py" fole for the code.  
+○ See "ingest.py" file for the code.  
   
 ○ This code was performed entirely with the help of AI (Claude).  
   
@@ -23,10 +23,10 @@ Repository for the Data Manager Take-Home Assessment with CredibleMind
 ○ Due to time and knowledge constraints, I have skipped this step. I have not yet worked with dbt directly, but I am very eager to learn more.
 
 # 5) BI Dashboard
-○ There is no fully free version of Sigma available, so I have opted to use Looker Studio since it is free and can tap straight into BigQuery data.
+○ There is no fully free version of Sigma available, so I have opted to use Looker Studio since it is free and can tap straight into BigQuery data.  
   • https://lookerstudio.google.com/reporting/48e92c88-611e-4969-b00b-fc814e754b7c  
     
-○ I will also be including an example built in Sigma based on their included data sources they provide for their "Workout Wednesday" exercises. 
+○ I am also including an example built in Sigma based on their included data sources they provide for their "Workout Wednesday" exercises. It is a simple "quick & dirty" dashboard displaying the three requested visuals.
 
 # 6) AI Usage
 ○ Claude was used for the entire development of the "ingest.py" script as I still have only basic development knowledge with Python. The script appeared to be working as expected until the SERVICE_ACCOUNT_KEY error and subsequent timeouts.

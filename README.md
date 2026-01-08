@@ -29,7 +29,7 @@ Repository for the Data Manager Take-Home Assessment with CredibleMind
 ○ I will also be including an example built in Sigma based on their included data sources they provide for their "Workout Wednesday" exercises. 
 
 # 6) AI Usage
-○ 
+○ Claude was used for the entire development of the "ingest.py" script as I still have only basic development knowledge with Python. The script appeared to be working as expected until the SERVICE_ACCOUNT_KEY error and subsequent timeouts.
 
 # 7) Time Spent
 ○ GitHub Repository... 15m  

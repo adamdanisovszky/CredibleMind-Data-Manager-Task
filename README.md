@@ -43,3 +43,12 @@ Repository for the Data Manager Take-Home Assessment with CredibleMind
 ○ BI Dashboard... 60m (55m Looker Studio, 5m Sigma)  
 
 ○ README... 20m  
+
+# If I Had More Time
+2) I would have explored more into why the Python Ingestion Script kept timing out, starting with trying larger or smaller row counts for each ingestion pass.
+
+3) I would have explored ways directly within BigQuery to rename columns of the data to be more "dashboard friendly".
+
+4) I would have at least made an attempt to integrate dbt steps as requested.
+
+5) I would have first and foremost dug into why Looker Studio is mapping "Maryland" to the town in Australia, and "Georgia" to the country. There are also a lot of formatting options in Looker Studio that I am not familiar with; I would have taken some more time to add extra polish to the presentation of the dashboard.
